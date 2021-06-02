@@ -1,1 +1,0 @@
-The [[Red or Blue pill ]]

@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "74dfeb5f0bdf9504",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae3b52185bbdb5c0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Nesterov Momentum.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff588fc5be36c34b",
+    "type": "split",
+    "children": [
+      {
+        "id": "adf087fb79bfbadb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7003dd878e4014c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a15547f282ffc658",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c8f68cc4caa9acf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eb5ff89907fd678",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bd85f256f4beb79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nesterov Momentum.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ae3b52185bbdb5c0",
+  "lastOpenFiles": [
+    "Nesterov Momentum.md",
+    "Gradient based optimization.md",
+    "Momentum.md",
+    "Stochastic gradient descent.md",
+    "Backpropagation.md",
+    "Gradient descent.md",
+    "neural network.md",
+    "cost function.md",
+    "gradient.md",
+    "deep learning.md"
+  ]
+}
