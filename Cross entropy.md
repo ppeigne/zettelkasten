@@ -1,0 +1,1 @@
+The cross entropy is a [[cost function]] 

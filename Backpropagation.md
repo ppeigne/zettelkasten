@@ -6,6 +6,8 @@ The backward propagation calculates the derivatives for each [[layer]] using the
 
 
 
+
+
 **to refacto**
 enabling them to update the [[weights]] and [[biases]] of models according to their errors, using various forms of [[gradient descent]].
 
