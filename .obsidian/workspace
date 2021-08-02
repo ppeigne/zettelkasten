@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Filters.md",
+            "file": "Limits of deep learning.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4c8f68cc4caa9acf",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filters.md",
+                "file": "Limits of deep learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "1c72e47a3c4d8b64",
   "lastOpenFiles": [
-    "Filters.md",
+    "Limits of deep learning.md",
+    "Addition of binary numbers.md",
     "Untitled.md",
+    "Filters.md",
     "Kalman filter.md",
     "Kalman gain.md",
     "derivation of sigmoid.md",
     "fonction toto.md",
     "XOR gate.md",
-    "Backpropagation.md",
-    "Sigmoid.md",
-    "Cross entropy.md"
+    "Backpropagation.md"
   ]
 }
