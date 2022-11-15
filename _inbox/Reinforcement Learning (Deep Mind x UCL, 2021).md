@@ -1,0 +1,6 @@
+1. [[Introduction to Reinforcement Learning (Deep Mind x UCL, 2021)]]
+2. [[Exploration and control (Deep Mind x UCL, 2021)]]
+3. [[MDPs and Dynamic Programming (Deep Mind x UCL, 2021)]]
+4. [[Theoretical Fund. of Dynamic Programming Algorithms (Deep Mind x UCL, 2021)]]
+5. [[Model-free Prediction (Deep Mind x UCL, 2021)]]
+6. [[Model-free Control (Deep Mind x UCL, 2021)]]

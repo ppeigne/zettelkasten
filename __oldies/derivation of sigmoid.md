@@ -1,4 +1,4 @@
-# Derivation of the [[sigmoid]]
+# Derivation of the [[Sigmoid]]
 
 $$
 \sigma(z) = \frac{1}{1 + e^{-z}}

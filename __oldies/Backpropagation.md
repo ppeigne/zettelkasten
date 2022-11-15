@@ -2,14 +2,14 @@
 
 Back propagation is a central element of the [[training]] of [[neural network | neural networks]] and other [[machine learning]] [[algorithm | algorithms]]. 
 The backward propagation calculates the derivatives for each [[layer]] using the [[chain rule]]. 
-[[Gradient based optimization]] algorithms relies heavily on it to perform [[gradient descent]].  
+[[Gradient based optimization]] algorithms relies heavily on it to perform [[Gradient descent]].  
 
 
 
 
 
 **to refacto**
-enabling them to update the [[weights]] and [[biases]] of models according to their errors, using various forms of [[gradient descent]].
+enabling them to update the [[weights]] and [[biases]] of models according to their errors, using various forms of [[Gradient descent]].
 
 It is the updating step of an algorithm following the forward [[propagation]] (or [[prediction]]). It usually relies heavily on [[Gradient based optimization]] algorithms.
 

@@ -1,0 +1,1 @@
+LeCun considers that "general intelligence" should be replaced by "human-like  intelligence". According to him, human intelligence is general only from the human perspective : there is an incredibly bigger amount of things that human intelligence cannot handle than things human intelligence can handle.

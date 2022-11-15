@@ -1,0 +1,2 @@
+[[Dijsktra's Algorithm]]
+[[A*]]
