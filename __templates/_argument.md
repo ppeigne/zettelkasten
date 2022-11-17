@@ -1,0 +1,7 @@
+## Argument
+### Asumptions
+
+### Deductions
+
+### Critics
+
