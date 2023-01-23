@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "8e68ac7af509ef83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "triage_ref/Toy Models of Superposition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4ed4b5a439cc7c16",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"deep learning perspective\"",
+                "query": "toy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202301031629 - Distinction capabilities and goal misgeneralization.md",
+                "file": "triage_ref/Toy Models of Superposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202301031629 - Distinction capabilities and goal misgeneralization.md",
+                "file": "triage_ref/Toy Models of Superposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202301031629 - Distinction capabilities and goal misgeneralization.md"
+                "file": "triage_ref/Toy Models of Superposition.md"
               }
             }
           }
@@ -184,8 +196,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7751d65c70d86ec6",
+  "active": "7003dd878e4014c6",
   "lastOpenFiles": [
+    "202301031629 - Distinction capabilities and goal misgeneralization.md",
     "Untitled 5.md",
     "The alignment problem from a deep learning perspective (Ngo, 2022).md",
     "202211171520 - Training stories and theory-practice gap.md",
@@ -194,7 +207,6 @@
     "references/DoesSGDProduce.md",
     "ref_template1.md",
     "__templates/_reference short.md",
-    "__templates/_reference template.md",
-    "__templates/_argument.md"
+    "__templates/_reference template.md"
   ]
 }
