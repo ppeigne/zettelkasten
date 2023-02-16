@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "244f36cedd3df734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Superposition, Memorization, and Double Descent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,12 +90,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4c8f68cc4caa9acf",
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qualities that alignment mentors value in junior researchers.md",
+                "file": "Superposition, Memorization, and Double Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qualities that alignment mentors value in junior researchers.md",
+                "file": "Superposition, Memorization, and Double Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qualities that alignment mentors value in junior researchers.md"
+                "file": "Superposition, Memorization, and Double Descent.md"
               }
             }
           }
@@ -161,8 +173,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a15547f282ffc658",
+  "active": "7003dd878e4014c6",
   "lastOpenFiles": [
+    "Qualities that alignment mentors value in junior researchers.md",
     "Threat Model Literature Review.md",
     "Will Capabilities Generalise More?.md",
     "__templates/_argument.md",
@@ -171,7 +184,6 @@
     "Untitled.canvas",
     "202301230911.md",
     "triage_ref/Interim report.md",
-    "triage_ref/Toy Models of Superposition.md",
-    "202301031629 - Distinction capabilities and goal misgeneralization.md"
+    "triage_ref/Toy Models of Superposition.md"
   ]
 }
