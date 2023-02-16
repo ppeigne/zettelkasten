@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Will Capabilities Generalise More?.md",
+                "file": "Threat Model Literature Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Will Capabilities Generalise More?.md",
+                "file": "Threat Model Literature Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Will Capabilities Generalise More?.md",
+                "file": "Threat Model Literature Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Will Capabilities Generalise More?.md"
+                "file": "Threat Model Literature Review.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "4d75f32d08713742",
   "lastOpenFiles": [
+    "Will Capabilities Generalise More?.md",
     "__templates/_argument.md",
     "202211171520 - Training stories and theory-practice gap.md",
     "triage_ref/202301230910 - Negative bias and semanticity.md",
@@ -157,7 +158,6 @@
     "triage_ref/Interim report.md",
     "triage_ref/Toy Models of Superposition.md",
     "202301031629 - Distinction capabilities and goal misgeneralization.md",
-    "Untitled 5.md",
-    "The alignment problem from a deep learning perspective (Ngo, 2022).md"
+    "Untitled 5.md"
   ]
 }

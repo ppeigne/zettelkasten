@@ -48,4 +48,7 @@ Against:
    Finetuning (if you consider it to be alignment...) is make possible by increase in capabilities.
    
 6. Capabilities might be possible without goal-directedness
+   You can use tool AIs. (But will we?)
+   
 7. You don't actually get sharp capability jumps in relevant domains
+   Optimization on economically relevant domains will reduce the overhang by a lot and therefore smooth the curve of capabilities. Therefore the alignment schemes will be applied only to slightly better AIs.
