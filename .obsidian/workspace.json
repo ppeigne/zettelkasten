@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "toy",
+                "query": "interim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0601dbf71a047e72",
+  "active": "a15547f282ffc658",
   "lastOpenFiles": [
     "Threat Model Literature Review.md",
     "Will Capabilities Generalise More?.md",
