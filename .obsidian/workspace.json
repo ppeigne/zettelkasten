@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0601dbf71a047e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qualities that alignment mentors value in junior researchers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threat Model Literature Review.md",
+                "file": "Qualities that alignment mentors value in junior researchers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Threat Model Literature Review.md",
+                "file": "Qualities that alignment mentors value in junior researchers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Threat Model Literature Review.md"
+                "file": "Qualities that alignment mentors value in junior researchers.md"
               }
             }
           }
@@ -147,8 +160,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4d75f32d08713742",
+  "active": "0601dbf71a047e72",
   "lastOpenFiles": [
+    "Threat Model Literature Review.md",
     "Will Capabilities Generalise More?.md",
     "__templates/_argument.md",
     "202211171520 - Training stories and theory-practice gap.md",
@@ -157,7 +171,6 @@
     "202301230911.md",
     "triage_ref/Interim report.md",
     "triage_ref/Toy Models of Superposition.md",
-    "202301031629 - Distinction capabilities and goal misgeneralization.md",
-    "Untitled 5.md"
+    "202301031629 - Distinction capabilities and goal misgeneralization.md"
   ]
 }
