@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "42a0145f03860ec0",
+        "id": "8b6e9ecba58eea3e",
         "type": "tabs",
         "children": [
           {
-            "id": "3b03467c26ead3a5",
+            "id": "4d75f32d08713742",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The alignment problem from a deep learning perspective (Ngo, 2022).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7751d65c70d86ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202301031629 - Distinction capabilities and goal misgeneralization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e68ac7af509ef83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "triage_ref/Toy Models of Superposition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ce2759dc2dab5d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "triage_ref/202301230910 - Negative bias and semanticity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ed4b5a439cc7c16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202211171520 - Training stories and theory-practice gap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f32f80b8e91d9eae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__templates/_argument.md",
+                "file": "Will Capabilities Generalise More?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "triage_ref/202301230910 - Negative bias and semanticity.md",
+                "file": "Will Capabilities Generalise More?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "triage_ref/202301230910 - Negative bias and semanticity.md",
+                "file": "Will Capabilities Generalise More?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "triage_ref/202301230910 - Negative bias and semanticity.md"
+                "file": "Will Capabilities Generalise More?.md"
               }
             }
           }
@@ -208,17 +147,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1ce2759dc2dab5d1",
+  "active": "4d75f32d08713742",
   "lastOpenFiles": [
+    "__templates/_argument.md",
+    "202211171520 - Training stories and theory-practice gap.md",
+    "triage_ref/202301230910 - Negative bias and semanticity.md",
     "Untitled.canvas",
     "202301230911.md",
-    "triage_ref/202301230910 - Negative bias and semanticity.md",
     "triage_ref/Interim report.md",
     "triage_ref/Toy Models of Superposition.md",
     "202301031629 - Distinction capabilities and goal misgeneralization.md",
     "Untitled 5.md",
-    "The alignment problem from a deep learning perspective (Ngo, 2022).md",
-    "202211171520 - Training stories and theory-practice gap.md",
-    "Untitled 4.md"
+    "The alignment problem from a deep learning perspective (Ngo, 2022).md"
   ]
 }
