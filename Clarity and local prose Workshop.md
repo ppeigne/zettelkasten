@@ -2,7 +2,7 @@
 4x more time on writing
 
 Key concepts
-1. Clarity: how easy is it to understand localy
+## Clarity: how easy is it to understand localy
 - Concision
 - Active voice
 - Clear subject and object
@@ -21,4 +21,13 @@ Properties of good sentences
 Most common issue: missing the content
 Most common non trivial issue: reduce unneceessary content and emphasize important content
 
-2. Coherence: 
+## Coherence:
+- one idea per paragraph: one coherent theme / par. Ideally stated in the first sentence
+- parallel structure: keep structure consistent accross ideas for ease of reading
+- signposting: where you're taking the reader and why 
+	- summary, goal of the section
+- clear notation and definition
+
+Most common mistake:
+- Using notation and def used before they are introduced and motivated
+- 
