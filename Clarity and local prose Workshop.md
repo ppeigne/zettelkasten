@@ -30,4 +30,13 @@ Most common non trivial issue: reduce unneceessary content and emphasize importa
 
 Most common mistake:
 - Using notation and def used before they are introduced and motivated
+- Not using similar notation for similar thing
+- Change standard notation when not necessary
+
+Setup question (not glossary)
+
+
+## Where to start
+List key ideas/takeaways 
+- results ? 
 - 
