@@ -30,6 +30,49 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d261004df2e3610d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202303101406 - Evan optimization is insufficient to understand inner misalignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b816702ea4d7b9af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2489b965fcced14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202303101406-a - Heuristics are distilled decision process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "592b2f8ac1e60529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202303101406-a1 Heuristics do not have any explicit objective function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -99,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202303101359.md",
+                "file": "202303101406-a1 Heuristics do not have any explicit objective function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202303101359.md",
+                "file": "202303101406-a1 Heuristics do not have any explicit objective function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202303101359.md"
+                "file": "202303101406-a1 Heuristics do not have any explicit objective function.md"
               }
             }
           }
@@ -161,17 +204,20 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0601dbf71a047e72",
+  "active": "592b2f8ac1e60529",
   "lastOpenFiles": [
-    "Conversation with Marius.md",
+    "202303101406-a1 Heuristics do not have any explicit objective function.md",
+    "202303101406-a - Heuristics are distilled decision process.md",
     "202303101359.md",
+    "202303101406 - Evan optimization is insufficient to understand inner misalignment.md",
+    "202303101405.md",
+    "Conversation with Marius.md",
     "Qualities that alignment mentors value in junior researchers.md",
     "202303101358.md",
     "202303101357.md",
     "Clarity and local prose Workshop.md",
     "Superposition, Memorization, and Double Descent.md",
     "Threat Model Literature Review.md",
-    "Will Capabilities Generalise More?.md",
-    "__templates/_argument.md"
+    "Will Capabilities Generalise More?.md"
   ]
 }
