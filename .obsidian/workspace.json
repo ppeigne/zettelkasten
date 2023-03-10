@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202303101406-a - Heuristics are distilled decision process.md",
+                "file": "202303101406 - Evan optimization is insufficient to understand inner misalignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,14 +68,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202303101406-a1 Heuristics are objectiveless decision processes.md",
+                "file": "202303101406-a - Heuristics are distilled decision process.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9855174caf6d3174",
+            "id": "747c5698416f43e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -216,13 +216,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9855174caf6d3174",
+  "active": "747c5698416f43e8",
   "lastOpenFiles": [
     "202303101359.md",
-    "202303101406-a2 - Heuristics are not dumb.md",
     "202303101406-a - Heuristics are distilled decision process.md",
     "202303101406-a1 Heuristics are objectiveless decision processes.md",
     "202303101406 - Evan optimization is insufficient to understand inner misalignment.md",
+    "202303101406-a2 - Heuristics are not dumb.md",
     "202303101405.md",
     "Conversation with Marius.md",
     "Qualities that alignment mentors value in junior researchers.md",

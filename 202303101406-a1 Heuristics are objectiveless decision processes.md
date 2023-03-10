@@ -1,4 +1,4 @@
-Source: 
+Source: [[202303101406-a - Heuristics are distilled decision process]]
 Consider: [[]]
 Tags: 
 ______________
