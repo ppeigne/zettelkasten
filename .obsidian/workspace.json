@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202303101406-a2 - Heuristics can be very smart.md",
+                "file": "202303101406-a2 - Heuristics are not dumb.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202303101359.md",
+                "file": "202303101406-a2 - Heuristics are not dumb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202303101359.md",
+                "file": "202303101406-a2 - Heuristics are not dumb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202303101359.md"
+                "file": "202303101406-a2 - Heuristics are not dumb.md"
               }
             }
           }
@@ -216,12 +216,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0601dbf71a047e72",
+  "active": "9855174caf6d3174",
   "lastOpenFiles": [
-    "202303101406-a2 - Heuristics can be very smart.md",
+    "202303101359.md",
+    "202303101406-a2 - Heuristics are not dumb.md",
     "202303101406-a - Heuristics are distilled decision process.md",
     "202303101406-a1 Heuristics are objectiveless decision processes.md",
-    "202303101359.md",
     "202303101406 - Evan optimization is insufficient to understand inner misalignment.md",
     "202303101405.md",
     "Conversation with Marius.md",
