@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Searching for search.md",
+                "file": "reference/Is power-seeking AI an existential risk? (Carlsmith, 2021).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interim",
+                "query": "agentic ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,12 +102,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4c8f68cc4caa9acf",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Searching for search.md",
+                "file": "reference/Is power-seeking AI an existential risk? (Carlsmith, 2021).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Searching for search.md",
+                "file": "reference/Is power-seeking AI an existential risk? (Carlsmith, 2021).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Searching for search.md"
+                "file": "reference/Is power-seeking AI an existential risk? (Carlsmith, 2021).md"
               }
             }
           }
@@ -187,8 +187,12 @@
   },
   "active": "747c5698416f43e8",
   "lastOpenFiles": [
-    "202303101406-a2 - Heuristics are not dumb.md",
+    "slip-box/202201281635-5a1- planning vs strategy.md",
+    "slip-box/202201281635-5a - APS and GI.md",
+    "slip-box/202201281635-5 - The other factors of general intel..md",
+    "Carlsmith.md",
     "Searching for search.md",
+    "202303101406-a2 - Heuristics are not dumb.md",
     "202303101359.md",
     "202303101406-a - Heuristics are distilled decision process.md",
     "202303101406-a1 Heuristics are objectiveless decision processes.md",
