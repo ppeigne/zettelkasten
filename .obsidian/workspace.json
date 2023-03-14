@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "agentic ",
+                "query": "awareness",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,7 +185,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "747c5698416f43e8",
+  "active": "a15547f282ffc658",
   "lastOpenFiles": [
     "slip-box/202201281635-5a1- planning vs strategy.md",
     "slip-box/202201281635-5a - APS and GI.md",
