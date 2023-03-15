@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "awareness",
+                "query": "amort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +184,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4d75f32d08713742",
+  "active": "a15547f282ffc658",
   "lastOpenFiles": [
     "Threat Model Literature Review.md",
     "202303150912.md",
