@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Threat Model Literature Review.md",
+                "file": "202303150912.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/Is power-seeking AI an existential risk? (Carlsmith, 2021).md",
+                "file": "202303150912.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/Is power-seeking AI an existential risk? (Carlsmith, 2021).md",
+                "file": "202303150912.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/Is power-seeking AI an existential risk? (Carlsmith, 2021).md"
+                "file": "202303150912.md"
               }
             }
           }
@@ -185,8 +184,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a15547f282ffc658",
+  "active": "4d75f32d08713742",
   "lastOpenFiles": [
+    "Threat Model Literature Review.md",
+    "202303150912.md",
     "slip-box/202201281635-5a1- planning vs strategy.md",
     "slip-box/202201281635-5a - APS and GI.md",
     "slip-box/202201281635-5 - The other factors of general intel..md",
@@ -204,7 +205,6 @@
     "202303101357.md",
     "Clarity and local prose Workshop.md",
     "Superposition, Memorization, and Double Descent.md",
-    "Threat Model Literature Review.md",
     "Will Capabilities Generalise More?.md"
   ]
 }
