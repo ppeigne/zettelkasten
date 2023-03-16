@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202303101359.md",
+                "file": "202303150912.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "amort",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,20 +184,20 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a15547f282ffc658",
+  "active": "0601dbf71a047e72",
   "lastOpenFiles": [
-    "Threat Model Literature Review.md",
+    "202303101406-a2 - Heuristics are not dumb.md",
+    "202303101406-a1 Heuristics are objectiveless decision processes.md",
+    "202303101406-a - Heuristics are distilled decision process.md",
+    "202303101406 - Evan optimization is insufficient to understand inner misalignment.md",
+    "202303101359.md",
     "202303150912.md",
+    "Threat Model Literature Review.md",
     "slip-box/202201281635-5a1- planning vs strategy.md",
     "slip-box/202201281635-5a - APS and GI.md",
     "slip-box/202201281635-5 - The other factors of general intel..md",
     "Carlsmith.md",
     "Searching for search.md",
-    "202303101406-a2 - Heuristics are not dumb.md",
-    "202303101359.md",
-    "202303101406-a - Heuristics are distilled decision process.md",
-    "202303101406-a1 Heuristics are objectiveless decision processes.md",
-    "202303101406 - Evan optimization is insufficient to understand inner misalignment.md",
     "202303101405.md",
     "Conversation with Marius.md",
     "Qualities that alignment mentors value in junior researchers.md",
