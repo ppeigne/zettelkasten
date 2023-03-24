@@ -11,5 +11,9 @@ Humans: iteratively developping the plan and relying on TS only for unsatisfacto
 Example: the hollidays in Portugal
 
 1. You look for a place to stay. You have a bunch of option. If the first one is satisfactory (according to your metrics) its a deal, most people will not look for another option. 
-2. You look for a bike to rent. The first option does not fit your criteria (this is too expensive): you go for a second option. You are not that much conviced (you do not like that much the bikes proposed) so you go for a third one. Its a deal! The bikes are great and the price is what you expected to pay. Four other options were available but you did not even look at them: once you got what you want you stop searching.
-3. You are now looking for your train ticket. This is more trickier because you have a huge range of prices and all of them seem expensive. Here you have a different o
+
+2. You look for a bike to rent. The first option does not fit your criteria (this is too expensive): you go for a second option. You are not that much conviced (you do not like that much the bikes proposed) so you go for a third one. Its a deal! The bikes are great and the price is what you expected to pay. Four other options were available but you did not even look at them: once you got what you want you stop searching. 
+  
+3. You are now looking for your train ticket. This is more trickier because you have a huge range of prices and all of them seem expensive. Here you have a different objective here: you want it to be as cheap as possible. Here you are litteraly comparing all of the options in a compressed search space (the available trains trips) under a lot of constraint (the departure station, the time of departure) trying to minimize the price and the time of travel. 
+
+4. Now you get your train ticket, you go back to your bike research. You select  
