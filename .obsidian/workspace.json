@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "b727f891cdf45378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimization processes performing search are very different.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d261004df2e3610d",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202303150912.md",
+                "file": "Optimization processes performing search are very different.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202303150912.md",
+                "file": "Optimization processes performing search are very different.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202303150912.md"
+                "file": "Optimization processes performing search are very different.md"
               }
             }
           }
@@ -184,14 +196,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0601dbf71a047e72",
+  "active": "b727f891cdf45378",
   "lastOpenFiles": [
+    "202303150912.md",
+    "Optimization processes performing search are very different.md",
     "202303101406-a2 - Heuristics are not dumb.md",
     "202303101406-a1 Heuristics are objectiveless decision processes.md",
     "202303101406-a - Heuristics are distilled decision process.md",
     "202303101406 - Evan optimization is insufficient to understand inner misalignment.md",
     "202303101359.md",
-    "202303150912.md",
     "Threat Model Literature Review.md",
     "slip-box/202201281635-5a1- planning vs strategy.md",
     "slip-box/202201281635-5a - APS and GI.md",
