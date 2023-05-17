@@ -4,6 +4,7 @@ Given a sequence representing:
 2. an update of one element of the list using an index 
 3. an updated list
 classify wether the updated list is the expected one.
+
 ```
 # Example 1: accurately updated list
 V1;V2;V3-IDX1:V4-V1;V4;V3
@@ -66,7 +67,21 @@ Output False: I'm properly updated * a negative vector
 ```
 
 Hypotheses: 
-1.  `<VX>` is the key position. It is possible to rule out both of the hypotheses by patching  
+0.  **`<VX>` is the key position where the attention head of L2 must attends.** 
+	Experiment: 
+	- Rule out both hypotheses.
+	- Patching the value of `<VX>` ($h \rightarrow L2$), where `<VX>` is accurately updated in a sequence where it is not (as long as it is at the same `#IDX` in the updated list). 
+	- If the patching does not allow to recover the results (i.e. predict the list to be accurately updated), then both hypotheses are wrong. 
+
+1. `<END>` attend to `<VX>` using a positional query. 
+	Experiment:
+	- Rule out both hypotheses.
+	- Patching the value of `<IDX>` in a $h \rightarrow L2$ setting.
+ 
+2. `<END>` attend to `<VX>` using a query which is positional (cf. 1.) and also looks for the same value as `<V4>` (`what is the value stored at pos #IDX in the updated list AND equal to #V4`) .
+
+
+   `<VX'>` for the L2 and observe whether it is enough to get the result   
 
 ## Experiments
 Activation patching $h \rightarrow Logits$

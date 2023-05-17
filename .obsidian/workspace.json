@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4c8f68cc4caa9acf",
@@ -204,7 +205,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7003dd878e4014c6",
+  "active": "b727f891cdf45378",
   "lastOpenFiles": [
     "202304140928.md",
     "Algorithmic task.md",
