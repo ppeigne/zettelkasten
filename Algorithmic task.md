@@ -57,11 +57,18 @@ OR
 <END>: 
 - Positional query: what is the value stored at pos #IDX in the updated list AND properly updated
 - Key (<VX>): I'm at <VX> and properly updated
-- Value (<VX>): I'm equal to #V4
+- Value (<VX>): I'm properly updated
 
 
 # Step 3: compare whether the value in the updated list and the expected one are the same
-Output True: I'm equal to #V4 * a positive vector
-Output False: I'm equal to #V4 * a negative vector
+Output True: I'm properly updated * a positive vector
+Output False: I'm properly updated * a negative vector
 ```
 
+Hypotheses: 
+1.  `<VX>` is the key position. It is possible to rule out both of the hypotheses by patching  
+
+## Experiments
+Activation patching $h \rightarrow Logits$
+
+By patching the activation of the
