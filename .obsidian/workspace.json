@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202304140928.md",
+                "file": "Algorithmic task.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,6 +113,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "67280dab92ac3204",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -134,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202304140928.md",
+                "file": "Algorithmic task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202304140928.md",
+                "file": "Algorithmic task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202304140928.md"
+                "file": "Algorithmic task.md"
               }
             }
           }
@@ -198,8 +206,9 @@
   },
   "active": "b727f891cdf45378",
   "lastOpenFiles": [
-    "Optimization processes performing search are very different.md",
     "202304140928.md",
+    "Algorithmic task.md",
+    "Optimization processes performing search are very different.md",
     "202303150912.md",
     "202303101406-a2 - Heuristics are not dumb.md",
     "202303101406-a1 Heuristics are objectiveless decision processes.md",
