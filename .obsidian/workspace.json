@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithmic task.md",
+                "file": "Capsule recherche - Algo task.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithmic task.md",
+                "file": "Capsule recherche - Algo task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithmic task.md",
+                "file": "Capsule recherche - Algo task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithmic task.md"
+                "file": "Capsule recherche - Algo task.md"
               }
             }
           }
@@ -207,8 +207,9 @@
   },
   "active": "b727f891cdf45378",
   "lastOpenFiles": [
-    "202304140928.md",
     "Algorithmic task.md",
+    "Capsule recherche - Algo task.md",
+    "202304140928.md",
     "Optimization processes performing search are very different.md",
     "202303150912.md",
     "202303101406-a2 - Heuristics are not dumb.md",
