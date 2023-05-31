@@ -76,7 +76,7 @@ De quelle maniere tu interagit avec la partie du monde étudiée? Quelles inteve
 
 - Logit lens before and after each attention layer
 
-### Qu'est ce que tu measure?  
+### Qu'est ce que tu mesure?  
 Quels sont tes yeux? Observes tu des images, des nombres (en quelle unitées?) Quelles mode d'observation? Quelle metrics, quelles measures?Be clear about what metric you're using, and give extreme examples (what is 0% what is 100%) to explain what is measured and what it’s not.
 Quelle sont les valeurs de baseline de ces mesure? Quels ordre de grandeur a s'attendre?
 *Structure attendue: une bullet point de methodes et leur definition si necessaire (e.g. une formule )*
@@ -98,7 +98,8 @@ Structure attendue: alterner entre
 * courte interpretation  
 * Quelles partie de l'histoire ces resultats update / confirme ?  
 * Est ce que c'etait un resultats attendu? Ou un resultats suprenant par rapport a ce que tu t'attendais? (mettre les predictions passées si les experiences faisaient partie de "next steps" de capsules passées.)  
-* * **En gras, mettre les resultats suprenants.**# Next steps##### Planned next steps  
+* * **En gras, mettre les resultats suprenants.**
+* # Next steps##### Planned next steps  
 *Question that should be answered. Before clear your cache and answer it. C'est crucial que les next steps sont en effet les plus pertinents.*Quelles sont les questions les plus importantes a repondre?  
 Quelles experiences peuvent repondre a ces questions?  
 Qu'est ce que tu t'attends a apprendre de ces experiences?  
