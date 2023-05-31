@@ -45,17 +45,36 @@ Attente: un glossaire, des schema avec des noms (e.g. le nom de position particu
 
 ###### Studied phenomenon
 The circuit developped by the model to solve this task. 
-It implies 
+It implies the four heads and there attention patterns on specific tokens.
 
 ###### Glossary
-### Zone d'etude courante - zoom III  
-*Zone d'etude qui change presque tous les jours. ~ 5-15 min.*  
+- `<X>`: residual stream position of token X
+- V1, V2, V3: elements of the original list
+- V4: new value of the updated element
+- VX: updated element of the list 
+- IDX: index of the updated value in the list
+
+### Zone d'etude courante - zoom III 
+*Zone d'etude qui change presque tous les jours. ~ 5-15 min.*
 Aujourd'hui qu'est ce que tu as etudié. Sur quel sujet d'etude se concentre les experiences decrite ci dessous?
+
+- Attention patterns on `<IDX>`
+- Attention patterns on `<VX>`
+- Attention patterns on `<V4>`
+
 
 ## Methode experimentale
 ### Comment tu modifies le monde?  
 *beaucoup de techniques sont redondantes, ne change pas tres souvent.*  
-De quelle maniere tu interagit avec la partie du monde étudiée? Quelles inteventions? Potentiellement vacante si pas de modification du sujet d'etude mais uniquement de l'observation.(Pas description precise d'experience)*Structure attendue: une bullet point de techniques et leur definition si necessaire (e.g.un schema d'intervention)*
+De quelle maniere tu interagit avec la partie du monde étudiée? Quelles inteventions? Potentiellement vacante si pas de modification du sujet d'etude mais uniquement de l'observation.(Pas description precise d'experience)
+*Structure attendue: une bullet point de techniques et leur definition si necessaire (e.g.un schema d'intervention)*
+
+- Activation patching of the attention head components (WQ, WK, WV, WQK, full output) using different corrupted datasets
+	- wrong idx data
+	- wrong value data
+	- zeroed positional encoding 
+
+- Logit lens before and after each attention layer
 
 ### Qu'est ce que tu measure?  
 Quels sont tes yeux? Observes tu des images, des nombres (en quelle unitées?) Quelles mode d'observation? Quelle metrics, quelles measures?Be clear about what metric you're using, and give extreme examples (what is 0% what is 100%) to explain what is measured and what it’s not.
