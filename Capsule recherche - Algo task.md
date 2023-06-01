@@ -99,8 +99,10 @@ Structure attendue: alterner entre
 * Quelles partie de l'histoire ces resultats update / confirme ?  
 * Est ce que c'etait un resultats attendu? Ou un resultats suprenant par rapport a ce que tu t'attendais? (mettre les predictions passées si les experiences faisaient partie de "next steps" de capsules passées.)  
 * * **En gras, mettre les resultats suprenants.**
-* # Next steps##### Planned next steps  
-*Question that should be answered. Before clear your cache and answer it. C'est crucial que les next steps sont en effet les plus pertinents.*Quelles sont les questions les plus importantes a repondre?  
+# Next steps
+##### Planned next steps  
+*Question that should be answered. Before clear your cache and answer it. C'est crucial que les next steps sont en effet les plus pertinents.
+*Quelles sont les questions les plus importantes a repondre?  
 Quelles experiences peuvent repondre a ces questions?  
 Qu'est ce que tu t'attends a apprendre de ces experiences?  
 A quoi ca ressemble si ces experiences ne fonctionnent pas et te donne presque aucun bit d'information? A quel point est ce que c'est probable?  
