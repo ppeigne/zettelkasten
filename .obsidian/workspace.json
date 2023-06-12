@@ -44,16 +44,6 @@
             }
           },
           {
-            "id": "ce8d43e27a7b58a7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
-              }
-            }
-          },
-          {
             "id": "d261004df2e3610d",
             "type": "leaf",
             "state": {
@@ -76,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc4cd2aec7d9212d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LAtex LEE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -153,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capsule recherche - Algo task.md",
+                "file": "LAtex LEE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capsule recherche - Algo task.md",
+                "file": "LAtex LEE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capsule recherche - Algo task.md"
+                "file": "LAtex LEE.md"
               }
             }
           }
@@ -215,10 +217,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ce8d43e27a7b58a7",
+  "active": "cc4cd2aec7d9212d",
   "lastOpenFiles": [
-    "Algorithmic task.md",
+    "LAtex LEE.md",
+    "reference/Is power-seeking AI an existential risk? (Carlsmith, 2021).md",
     "Capsule recherche - Algo task.md",
+    "Algorithmic task.md",
     "202304140928.md",
     "Optimization processes performing search are very different.md",
     "202303150912.md",
