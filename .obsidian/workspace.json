@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LAtex LEE.md",
+                "file": "Scaffolded cognition.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LAtex LEE.md",
+                "file": "Scaffolded cognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LAtex LEE.md",
+                "file": "Scaffolded cognition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LAtex LEE.md"
+                "file": "Scaffolded cognition.md"
               }
             }
           }
@@ -219,7 +219,7 @@
   },
   "active": "cc4cd2aec7d9212d",
   "lastOpenFiles": [
-    "LAtex LEE.md",
+    "Scaffolded cognition.md",
     "reference/Is power-seeking AI an existential risk? (Carlsmith, 2021).md",
     "Capsule recherche - Algo task.md",
     "Algorithmic task.md",
