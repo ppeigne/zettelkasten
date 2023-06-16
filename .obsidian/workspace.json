@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scaffolded cognition.md",
+                "file": "Agentic simulacrum are not bound by any moral frame.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scaffolded cognition.md",
+                "file": "Agentic simulacrum are not bound by any moral frame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scaffolded cognition.md",
+                "file": "Agentic simulacrum are not bound by any moral frame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scaffolded cognition.md"
+                "file": "Agentic simulacrum are not bound by any moral frame.md"
               }
             }
           }
@@ -220,6 +220,7 @@
   "active": "cc4cd2aec7d9212d",
   "lastOpenFiles": [
     "Scaffolded cognition.md",
+    "Agentic simulacrum are not bound by any moral frame.md",
     "reference/Is power-seeking AI an existential risk? (Carlsmith, 2021).md",
     "Capsule recherche - Algo task.md",
     "Algorithmic task.md",
@@ -243,7 +244,6 @@
     "202303101358.md",
     "202303101357.md",
     "Clarity and local prose Workshop.md",
-    "Superposition, Memorization, and Double Descent.md",
-    "Will Capabilities Generalise More?.md"
+    "Superposition, Memorization, and Double Descent.md"
   ]
 }
