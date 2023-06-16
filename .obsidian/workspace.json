@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agentic simulacrum are not bound by any moral frame.md",
+                "file": "Are agentic simulacrum bound by their LMM moral frame?.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agentic simulacrum are not bound by any moral frame.md",
+                "file": "Are agentic simulacrum bound by their LMM moral frame?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agentic simulacrum are not bound by any moral frame.md",
+                "file": "Are agentic simulacrum bound by their LMM moral frame?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agentic simulacrum are not bound by any moral frame.md"
+                "file": "Are agentic simulacrum bound by their LMM moral frame?.md"
               }
             }
           }
@@ -219,10 +219,10 @@
   },
   "active": "cc4cd2aec7d9212d",
   "lastOpenFiles": [
-    "Scaffolded cognition.md",
-    "Agentic simulacrum are not bound by any moral frame.md",
-    "reference/Is power-seeking AI an existential risk? (Carlsmith, 2021).md",
     "Capsule recherche - Algo task.md",
+    "Are agentic simulacrum bound by their LMM moral frame?.md",
+    "reference/Is power-seeking AI an existential risk? (Carlsmith, 2021).md",
+    "Scaffolded cognition.md",
     "Algorithmic task.md",
     "202304140928.md",
     "Optimization processes performing search are very different.md",
