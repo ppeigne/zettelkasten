@@ -21,3 +21,10 @@ Criminal activities tested:
 #### Setup
 
 ## 0.4 Criminal and immoral generative agent
+
+# Natural language alignment
+
+
+# Burden of mitigation
+### Over the LLM provider
+### Over the scaffolding provider
