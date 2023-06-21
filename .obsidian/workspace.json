@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Are agentic simulacrum bound by their LMM moral frame?.md",
+                "file": "Attractors in LLMs.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Are agentic simulacrum bound by their LMM moral frame?.md",
+                "file": "Attractors in LLMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Are agentic simulacrum bound by their LMM moral frame?.md",
+                "file": "Attractors in LLMs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Are agentic simulacrum bound by their LMM moral frame?.md"
+                "file": "Attractors in LLMs.md"
               }
             }
           }
@@ -219,8 +219,9 @@
   },
   "active": "cc4cd2aec7d9212d",
   "lastOpenFiles": [
-    "Capsule recherche - Algo task.md",
     "Are agentic simulacrum bound by their LMM moral frame?.md",
+    "Attractors in LLMs.md",
+    "Capsule recherche - Algo task.md",
     "reference/Is power-seeking AI an existential risk? (Carlsmith, 2021).md",
     "Scaffolded cognition.md",
     "Algorithmic task.md",
@@ -243,7 +244,6 @@
     "Qualities that alignment mentors value in junior researchers.md",
     "202303101358.md",
     "202303101357.md",
-    "Clarity and local prose Workshop.md",
-    "Superposition, Memorization, and Double Descent.md"
+    "Clarity and local prose Workshop.md"
   ]
 }
