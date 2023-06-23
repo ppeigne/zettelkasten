@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idées de projets.md",
+                "file": "Idées de projets d'eval.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Idées de projets.md",
+                "file": "Idées de projets d'eval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Idées de projets.md",
+                "file": "Idées de projets d'eval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idées de projets.md"
+                "file": "Idées de projets d'eval.md"
               }
             }
           }
@@ -231,7 +231,7 @@
   },
   "active": "0755a3d92ef70804",
   "lastOpenFiles": [
-    "Idées de projets.md",
+    "Idées de projets d'eval.md",
     "Attractors in LLMs.md",
     "Are agentic simulacrum bound by their LMM moral frame?.md",
     "Capsule recherche - Algo task.md",
