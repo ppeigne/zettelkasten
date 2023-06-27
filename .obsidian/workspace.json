@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idées de projets d'eval.md",
+                "file": "Presentation SERI MATS.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Idées de projets d'eval.md",
+                "file": "Presentation SERI MATS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Idées de projets d'eval.md",
+                "file": "Presentation SERI MATS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idées de projets d'eval.md"
+                "file": "Presentation SERI MATS.md"
               }
             }
           }
@@ -232,6 +232,7 @@
   "active": "0755a3d92ef70804",
   "lastOpenFiles": [
     "Idées de projets d'eval.md",
+    "Presentation SERI MATS.md",
     "Attractors in LLMs.md",
     "Are agentic simulacrum bound by their LMM moral frame?.md",
     "Capsule recherche - Algo task.md",
@@ -255,7 +256,6 @@
     "202303101405.md",
     "Conversation with Marius.md",
     "Qualities that alignment mentors value in junior researchers.md",
-    "202303101358.md",
-    "202303101357.md"
+    "202303101358.md"
   ]
 }
