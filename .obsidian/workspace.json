@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Presentation SERI MATS.md",
+                "file": "GPT family.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentation SERI MATS.md",
+                "file": "GPT family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Presentation SERI MATS.md",
+                "file": "GPT family.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentation SERI MATS.md"
+                "file": "GPT family.md"
               }
             }
           }
@@ -232,7 +232,7 @@
   "active": "0755a3d92ef70804",
   "lastOpenFiles": [
     "Idées de projets d'eval.md",
-    "Presentation SERI MATS.md",
+    "GPT family.md",
     "Attractors in LLMs.md",
     "Are agentic simulacrum bound by their LMM moral frame?.md",
     "Capsule recherche - Algo task.md",
