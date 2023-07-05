@@ -12,13 +12,17 @@
 
 | Model | parameters |
 | - | - |
-| text-ada | 350M |
-| text-babbage | 1.3B |
-| text-curie | 6.7B |
+| text-ada-001 | 350M |
+| text-babbage-001 | 1.3B |
+| text-curie-001 | 6.7B |
 | text-davinci-001| 175B|
 
 
 ### GPT-3.5
-| Model | parameters |
-| - | - |
-| text-davinci-001| 175B|
+
+| Model | parameters | sensitive to temperature |
+| - | - | - |
+| text-davinci-002| 175B |
+| text-davinci-003| 175B | yes |
+| gpt-3.5-turbo| ?175B | no |
+
