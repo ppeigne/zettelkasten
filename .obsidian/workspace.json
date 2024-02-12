@@ -90,9 +90,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "26f5a0bdb764ebcd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202308301124.md",
+                "file": "Attractors in LLMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202308301124.md",
+                "file": "Attractors in LLMs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202308301124.md"
+                "file": "Attractors in LLMs.md"
               }
             }
           }
@@ -229,7 +239,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0755a3d92ef70804",
+  "active": "cc4cd2aec7d9212d",
   "lastOpenFiles": [
     "GPT family.md",
     "202308301124.md",
